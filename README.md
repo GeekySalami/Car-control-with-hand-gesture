@@ -14,7 +14,6 @@ A computer-vision-based system that enables controlling a robotic car using hand
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
